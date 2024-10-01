@@ -12,6 +12,7 @@ namespace TI46ProjetosConsole
         {
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Teste");
+            Console.WriteLine("U.U");
         }
     }
 }
