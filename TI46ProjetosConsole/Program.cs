@@ -10,9 +10,16 @@ namespace TI46ProjetosConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo");
-            Console.WriteLine("Teste");
-            Console.WriteLine("U.U");
+            string nome;
+            int nota1, nota2, nota3, nota4, resultado;
+            Console.WriteLine("Escreva seu nome: ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Seja bem vindo, " + nome, "\n");
+
+            //Entre com as notas!
+            Console.WriteLine("Digita as notas do aluno "+nome,"\n");
+            int
+            Console.ReadKey();
         }
     }
 }
